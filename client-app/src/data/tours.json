@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "title": "Золотое кольцо",
+    "short": "Классический тур по городам Золотого кольца",
+    "full": "Детальная программа тура по городам с экскурсиями и проживанием",
+    "price": 15000,
+    "rating": 4.5,
+    "popularity": 100,
+    "country": "Россия",
+    "maxPeople": 10,
+    "durationMin": 3,
+    "durationMax": 7,
+    "startDate": "2025-06-01",
+    "endDate": "2025-09-30",
+    "photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/00_Vladimir_Sobor.jpg/1600px-00_Vladimir_Sobor.jpg",
+      "https://avatars.mds.yandex.net/i?id=1580e2ecd06db978c08675bd80573300_l-12475401-images-thumbs&n=13"
+    ],
+    "tags": ["семейный"],
+    "reviews": [
+      { "id": 1, "author": "Иван", "text": "Отличный классический маршрут", "rating": 5 },
+      { "id": 2, "author": "Мария", "text": "Очень насыщенная программа", "rating": 4 }
+    ],
+    "flights": [
+      { "id": 1, "from": "Москва", "to": "Ярославль", "date": "2025-06-10", "price": 3500 },
+      { "id": 2, "from": "Москва", "to": "Владимир", "date": "2025-07-05", "price": 3200 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Байкальская сказка",
+    "short": "Тур на озеро Байкал",
+    "full": "Программа с походами и обзорными экскурсиями",
+    "price": 30000,
+    "rating": 4.8,
+    "popularity": 80,
+    "country": "Россия",
+    "maxPeople": 8,
+    "durationMin": 5,
+    "durationMax": 10,
+    "startDate": "2025-07-01",
+    "endDate": "2025-08-31",
+    "photos": [
+      "https://avatars.mds.yandex.net/i?id=5a9deeddd2d4c8d31a3be9b127c177050fe0cc9c-4297303-images-thumbs&n=13"
+    ],
+    "tags": ["приключения"],
+    "reviews": [
+      { "id": 1, "author": "Алексей", "text": "Невероятная природа", "rating": 5 },
+      { "id": 2, "author": "Ольга", "text": "Холодно, но очень красиво", "rating": 4 }
+    ],
+    "flights": [
+      { "id": 1, "from": "Москва", "to": "Иркутск", "date": "2025-07-10", "price": 12000 },
+      { "id": 2, "from": "Санкт-Петербург", "to": "Иркутск", "date": "2025-07-15", "price": 14500 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Пирамиды Египта",
+    "short": "Тур к пирамидам и Сфинксу",
+    "full": "Экскурсии по Каиру, посещение пирамид Гизы",
+    "price": 25000,
+    "rating": 4.7,
+    "popularity": 90,
+    "country": "Египет",
+    "maxPeople": 12,
+    "durationMin": 7,
+    "durationMax": 14,
+    "startDate": "2025-10-01",
+    "endDate": "2025-12-31",
+    "photos": [
+      "https://media.architecturaldigest.com/photos/668d67dca98fc5c9ed566bf1/master/w_1600%2Cc_limit/GettyImages-1277362064.jpg"
+    ],
+    "tags": ["культурный"],
+    "reviews": [
+      { "id": 1, "author": "Сергей", "text": "Мечта детства сбылась", "rating": 5 },
+      { "id": 2, "author": "Анна", "text": "Очень жарко, но впечатляет", "rating": 4 }
+    ],
+    "flights": [
+      { "id": 1, "from": "Москва", "to": "Каир", "date": "2025-10-05", "price": 18000 },
+      { "id": 2, "from": "Санкт-Петербург", "to": "Каир", "date": "2025-10-12", "price": 19500 }
+    ]
+  }
+]
