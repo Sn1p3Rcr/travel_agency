@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Hotel Aurora",
+    "desc": "Комфортный отель в центре города",
+    "rating": 4.2,
+    "popularity": 90,
+    "country": "Россия",
+    "price": 4500,
+    "maxPeople": 4,
+    "durationMin": 1,
+    "durationMax": 30,
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "photos": [
+      "https://avatars.mds.yandex.net/i?id=5c8a80244e0145198870f7b5f52a4b3344f09681-9870747-images-thumbs&n=13",
+      "https://www.multitour.ru/files/imgs/hotel_8101_119159_3f9ff97ffe377cc57e1164cc01d0d7bc.jpg"
+    ],
+    "reviews": [
+      { "id": 1, "author": "Алексей", "text": "Отличное расположение и тихие номера", "rating": 4 },
+      { "id": 2, "author": "Ольга", "text": "Чисто и уютно, вернёмся ещё", "rating": 5 }
+    ],
+    "flights": [
+      { "id": 1, "from": "Москва", "to": "Саратов", "date": "2025-07-20", "price": 3000 },
+      { "id": 2, "from": "Санкт-Петербург", "to": "Саратов", "date": "2025-08-15", "price": 3500 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mountain Inn",
+    "desc": "Уютный отель у гор",
+    "rating": 4.7,
+    "popularity": 85,
+    "country": "Швейцария",
+    "price": 7200,
+    "maxPeople": 6,
+    "durationMin": 2,
+    "durationMax": 14,
+    "startDate": "2025-05-01",
+    "endDate": "2025-10-31",
+    "photos": [
+      "https://i.pinimg.com/originals/a2/cc/df/a2ccdf5e977aa061ac01e579654a0246.jpg",
+      "https://avatars.mds.yandex.net/get-altay/13455884/2a00000191759a4a2961d6c61f05816d188c/XL"
+    ],
+    "reviews": [
+      { "id": 1, "author": "Ирина", "text": "Вид на горы потрясающий", "rating": 5 },
+      { "id": 2, "author": "Дмитрий", "text": "Отличный выбор для активного отдыха", "rating": 4 }
+    ],
+    "flights": [
+      { "id": 1, "from": "Москва", "to": "Женева", "date": "2025-06-10", "price": 11000 },
+      { "id": 2, "from": "Екатеринбург", "to": "Женева", "date": "2025-07-01", "price": 9000 }
+    ]
+  }
+]
