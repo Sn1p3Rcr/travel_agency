@@ -85,11 +85,10 @@ npm run dev
 
 ## Скриншоты
 
-Ниже примеры работы приложения (пути/имена файлов можно адаптировать под фактические скриншоты):
+![Главная страница](images/image1.jpg)
+![Туры](images/image2.jpg)
+![Отели](images/image3.jpg)
 
-- Главная страница клиентского приложения (туры): `images/client-app-home.png`
-- Страница каталога отелей: `images/client-app-hotels.png`
-- Примеры компонентов из `ui-library` (кнопки, карточки): `images/ui-library-components.png`
 
 
 
